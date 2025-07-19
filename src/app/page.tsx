@@ -26,7 +26,7 @@ export default function Home() {
           deserves better.
         </p>
         <div className="flex gap-4 justify-center">
-          <Link href="/login">
+          <Link href="/editor">
             <button className="px-6 py-3 bg-[#2b2b2b] text-[#e4e2dd] rounded-md text-sm tracking-wide hover:bg-black transition">
               Start Writing
             </button>
